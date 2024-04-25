@@ -1,3 +1,2 @@
-# git-essentials
-New stuff in here
-this is after the section of git diffference
+# git-essentials/ git for everybody
+This is a course to teach you how to use everyday git
